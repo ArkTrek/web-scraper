@@ -35,8 +35,8 @@ requests==2.31.0
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/web-scraper-with-csv.git
-   cd web-scraper-with-csv
+   git clone https://github.com/arktrek/web-scraper.git
+   cd web-scraper
    ```
 
 2. **Run the script**:
@@ -63,8 +63,8 @@ Here’s an example of how the scraped data may look:
 
 | 🧑 Name       | 🌎 Country   | 🔢 Age  |
 |---------------|-------------|---------|
-| John Doe      | USA         | 25      |
-| Jane Smith    | UK          | 30      |
+| ABCD          | INDIA       | 25      |
+| abcd          | USA         | 30      |
 
 The above table is saved as `scraped_data_20241205_120000.csv`.
 
@@ -91,21 +91,10 @@ Contributions are welcome! 🎉 To contribute:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 🧑‍💻 Author
-Developed by **Your Name**.  
+Developed by **Arpit**.  
 
-💌 Contact me at [your-email@example.com](mailto:your-email@example.com) or check out my [GitHub Profile](https://github.com/your-username).
-
----
-
-## 🌟 Show Your Support
-If you found this project helpful, please ⭐ the repository and share it with others! 🚀
+💌 Contact me at [bitstoday@gmail.com](mailto:bitstoday@gmail.com) or check out my [GitHub Profile](https://github.com/arktrek).
 
 ---
 
